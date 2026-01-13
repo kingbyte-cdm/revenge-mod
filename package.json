@@ -1,5 +1,5 @@
 {
-    "name": "@revenge-mod/revenge",
+    "name": "@revenge-mod/Chaoscord",
     "exports": {
         "types": "./dist/types/index.d.ts"
     },
